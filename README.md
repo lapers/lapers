@@ -4,6 +4,8 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-%23000.svg?style=flat&logo=c%2B%2B&logoColor=00599C)]()
 [![Node](https://img.shields.io/badge/Node-000?style=flat&logo=node.js&logoColor=6DA55F)](https://nodejs.org)
 
+![](https://github-readme-stats.vercel.app/api?username=lapers&count_private=true&show_icons=true)
+
 ### Welcome to My Tech Playground! 👋
 
 Hey there! I'm Lapers, and I'm thrilled to have you explore my tech playground on GitHub. Here, I dive into the fascinating realms of DevOps, Software Development, and Electrical Engineering, all while tinkering with the latest gadgets and uncovering the magic of code.
